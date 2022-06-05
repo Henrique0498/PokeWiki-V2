@@ -1,0 +1,18 @@
+{
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "cSpell.words": [
+    "Berrys",
+    "Meowth",
+    "pokebola",
+    "Pokebola",
+    "pokebolas",
+    "pokemon",
+    "pokémon",
+    "Pokemons",
+    "Pokémons"
+  ],
+  "cSpell.language": "en,pt,pt-BR"
+}
